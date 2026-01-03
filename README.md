@@ -1,3 +1,15 @@
+# 👋 Hi, I'm **Kunal Gupta**
+**Aspiring MERN Stack Developer | Web Developer | DSA Learner**
+
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.9d643f53934a11f35e1824df87fdbe33?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fcamo.githubusercontent.com%2f4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439%2f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&ehk=4Odh0aFPiv5uIBCC8JuoU2Fag01LNjSzo1fgH3YItq0%3d">
+
+- 🔭 Currently working on **Web Development projects**
+- 🌱 Learning **MERN Stack & Data Structures**
+- 👯 Open to **collaboration on beginner-friendly projects**
+- 💬 Ask me about **Web Dev & DSA basics**
+- 📫 Reach me at **kunalgupta.cse2027@gmail.com**
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I believe consistency > motivation 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kunal Gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kunal_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalgupta.cse2027@gmail.com) 
