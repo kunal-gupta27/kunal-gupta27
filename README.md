@@ -4,18 +4,19 @@
 
 ```javascript
 const kunalGupta = {
-    name: "Kunal Gupta",
-    role: "Aspiring MERN Stack Developer",
-    skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
-    currentlyLearning: ["MERN Stack", "Data Structures & Algorithms"],
-    currentFocus: "Building Web Development Projects",
-    lookingFor: "Beginner-friendly & Open Source Collaborations",
-    askMeAbout: ["Web Development", "DSA Basics"],
-    contact: "kunalgupta.cse2027@gmail.com",
-    pronouns: "He/Him",
-    funFact: "Consistency beats motivation 🚀"
+  name: "Kunal Gupta",
+  role: "MERN Dev",
+  skills: ["HTML","CSS","JS","React","Node","MongoDB"],
+  learning: ["MERN","DSA"],
+  focus: "Web Projects",
+  collab: "Open Source",
+  ask: ["Web Dev","DSA"],
+  email: "kunalgupta.cse2027@gmail.com",
+  pronouns: "He/Him",
+  fact: "Consistency > Motivation 🚀"
 };
 ```
+
 
 
 
