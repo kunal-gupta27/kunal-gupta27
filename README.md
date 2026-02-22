@@ -1,3 +1,10 @@
+```html id="type1"
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kunal+Gupta;MERN+Stack+Developer;Web+Developer;DSA+Learner" />
+</h1>
+```
+
+
 ```javascript
 const kunalGupta = {
     name: "Kunal Gupta",
