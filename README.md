@@ -1,11 +1,14 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kunal+Gupta" /> </h1> 
 <p align="center"> 🚀 Aspiring MERN Stack Developer | 💻 Web Dev | 📚 DSA Learner </p>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300" align="right"/>
+<img align="right" alt="Coder GIF" height="200" width="350" 
+src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
+
+
 ```javascript
 const kunal = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Java", "C++"],
+    code: ["JavaScript", "Java"],
     askMeAbout: ["web dev", "DSA", "MERN", "problem solving"],
 
     technologies: {
