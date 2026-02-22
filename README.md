@@ -2,20 +2,30 @@
 <p align="center"> 🚀 Aspiring MERN Stack Developer | 💻 Web Dev | 📚 DSA Learner </p>
 
 
-```javascript
-const kunalGupta = {
-  name: "Kunal Gupta",
-  role: "MERN Dev",
-  skills: ["HTML","CSS","JS","React","Node","MongoDB"],
-  learning: ["MERN","DSA"],
-  focus: "Web Projects",
-  collab: "Open Source",
-  ask: ["Web Dev","DSA"],
-  email: "kunalgupta.cse2027@gmail.com",
-  pronouns: "He/Him",
-  fact: "Consistency > Motivation 🚀"
+const kunal = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "Java", "C++"],
+    askMeAbout: ["web dev", "DSA", "MERN", "problem solving"],
+    
+    technologies: {
+        frontEnd: {
+            languages: ["HTML", "CSS", "JavaScript"],
+            frameworks: ["React"],
+            styling: ["Tailwind", "Bootstrap"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["MongoDB"],
+        misc: ["REST APIs", "Git", "GitHub"],
+    },
+
+    currentlyLearning: ["MERN Stack", "Data Structures & Algorithms"],
+    
+    currentFocus: "Building real-world web applications",
+    
+    funFact: "Consistency beats motivation 🚀"
 };
-```
 
 
 
