@@ -2,11 +2,12 @@
 <p align="center"> 🚀 Aspiring MERN Stack Developer | 💻 Web Dev | 📚 DSA Learner </p>
 
 
+```javascript
 const kunal = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Java", "C++"],
     askMeAbout: ["web dev", "DSA", "MERN", "problem solving"],
-    
+
     technologies: {
         frontEnd: {
             languages: ["HTML", "CSS", "JavaScript"],
@@ -21,11 +22,13 @@ const kunal = {
     },
 
     currentlyLearning: ["MERN Stack", "Data Structures & Algorithms"],
-    
+
     currentFocus: "Building real-world web applications",
-    
+
     funFact: "Consistency beats motivation 🚀"
 };
+```
+
 
 
 
