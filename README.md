@@ -1,5 +1,18 @@
-# 💫 About Me:
-*👋 Hi, I'm Kunal Gupta*<br><br>*💻 Aspiring MERN Stack Developer | Web Developer | DSA Learner*<br><br>*🔭 Currently working on web development projects and improving my coding skills*<br>*🌱 Learning MERN Stack and Data Structures & Algorithms*<br>*👯 Looking to collaborate on beginner-friendly and open-source projects*<br>*💬 Ask me about Web Development and DSA basics*<br>*📫 Reach me at: [kunalgupta.cse2027@gmail.com](mailto:kunalgupta.cse2027@gmail.com)*<br>*😄 Pronouns: He/Him*<br>*⚡ Fun fact: I believe consistency beats motivation 🚀*<br>
+```javascript
+const kunalGupta = {
+    name: "Kunal Gupta",
+    role: "Aspiring MERN Stack Developer",
+    skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
+    currentlyLearning: ["MERN Stack", "Data Structures & Algorithms"],
+    currentFocus: "Building Web Development Projects",
+    lookingFor: "Beginner-friendly & Open Source Collaborations",
+    askMeAbout: ["Web Development", "DSA Basics"],
+    contact: "kunalgupta.cse2027@gmail.com",
+    pronouns: "He/Him",
+    funFact: "Consistency beats motivation 🚀"
+};
+```
+
 
 
 ## 🌐 Socials:
@@ -23,4 +36,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
