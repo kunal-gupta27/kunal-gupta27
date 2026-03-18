@@ -13,15 +13,15 @@ const kunal = {
 
     technologies: {
         frontEnd: {
-            languages: ["HTML", "CSS", "JavaScript"],
-            frameworks: ["React"],
+            languages: ["HTML", "CSS", "JavaScript","Java"],
+            frameworks: ["React.js"],
             styling: ["Tailwind", "Bootstrap"],
         },
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node.js", "Express"],
         },
-        databases: ["MongoDB"],
-        misc: ["REST APIs", "Git", "GitHub"],
+        databases: ["MongoDB","mongoose"],
+        misc: ["REST APIs", "Git", "GitHub","Middleware"],
     },
 
     currentlyLearning: ["MERN Stack", "Data Structures & Algorithms"],
