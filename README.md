@@ -8,7 +8,7 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
 ```javascript
 const kunal = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Java"],
+    code: ["JavaScript", "Java","Python"],
     askMeAbout: ["web dev", "DSA", "MERN", "problem solving"],
 
     technologies: {
