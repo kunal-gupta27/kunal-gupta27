@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
 const kunal = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "Java","Python"],
-    askMeAbout: ["web dev", "DSA", "MERN", "problem solving"],
+    askMeAbout: ["Web Dev", "DSA", "MERN", "problem solving"],
 
     technologies: {
         frontEnd: {
@@ -18,7 +18,7 @@ const kunal = {
             styling: ["Tailwind", "Bootstrap"],
         },
         backEnd: {
-            js: ["Node.js", "Express"],
+            js: ["Node.js", "Express",Restful API],
         },
         databases: ["MongoDB","mongoose"],
         misc: ["REST APIs", "Git", "GitHub","Middleware"],
