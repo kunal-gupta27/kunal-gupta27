@@ -18,7 +18,7 @@ const kunal = {
             styling: ["Tailwind", "Bootstrap"],
         },
         backEnd: {
-            js: ["Node.js", "Express", "Restful API"],
+            js: ["Node.js", "Express.js", "Restful API"],
         },
         databases: ["MongoDB","mongoose"],
         misc: ["REST APIs", "Git", "GitHub","Middleware"],
