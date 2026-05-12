@@ -13,7 +13,7 @@ const kunal = {
 
     technologies: {
         frontEnd: {
-            languages: ["HTML", "CSS", "JavaScript","Java"],
+            languages: ["HTML", "CSS", "JavaScript","Java", "Python"],
             frameworks: ["React.js"],
             styling: ["Tailwind", "Bootstrap"],
         },
